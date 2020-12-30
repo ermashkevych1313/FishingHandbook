@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Fishing_handbook</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Справочник Рыбака</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="fish">Рыба</string>
+    <string name="snasti">Снасти</string>
+    <string name="primanki">Приманки</string>
+    <string name="fish1">Щука[1], или обыкновенная щука[1] (лат. Esox lucius), — рыба семейства щуковых. Распространена в пресных водах Евразии и Северной Америки. Живёт обычно в прибрежной зоне, в водных зарослях, в непроточных или слабопроточных водах. Может также встречаться и в опреснённых частях морей, например в Финском, Рижском и Куршском заливах Балтийского моря, в Таганрогском заливе Азовского моря. Щука хорошо выдерживает кислую реакцию воды, может комфортно жить в водоёмах с pH 4,75. При снижении содержания кислорода до 3,0—2,0 мг/л наступает угнетение дыхания, поэтому в заморных водоёмах щука часто погибает.</string>
+
+    <string name="home_second">Home Second</string>
+</resources>

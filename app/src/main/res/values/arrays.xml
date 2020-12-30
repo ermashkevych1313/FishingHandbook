@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="fish_array">
+        <item>щука</item>
+        <item>окунь</item>
+        <item>судак</item>
+        <item>сом</item>
+    </string-array>
+    <string-array name="snasti_array">
+        <item>спининг</item>
+        <item>катушка</item>
+        <item>шнур</item>
+        <item>крючки</item>
+    </string-array>
+    <string-array name="primanka_array">
+        <item>блесна</item>
+        <item>воблер</item>
+        <item>силикон</item>
+        <item>вертушка</item>
+    </string-array>
+
+</resources>
